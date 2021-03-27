@@ -1,6 +1,6 @@
 # C program execution process
 
-![c_program_execution](c_compile.png "c_program_execution_process")
+
 
 1. Preprocessor converts the source file (app.c) into pre-processed file (app.i)
 
