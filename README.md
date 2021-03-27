@@ -1,5 +1,7 @@
 # C program execution process
 
+![alt text](Pictures\c_compile.png "c_program_execution_process")
+
 1. Preprocessor converts the source file (app.c) into pre-processed file (app.i)
 
     ```markdown
