@@ -1,6 +1,6 @@
 # C program execution process
 
-![alt text](Pictures\c_compile.png "c_program_execution_process")
+![c_program_execution](c_compile.png "c_program_execution_process")
 
 1. Preprocessor converts the source file (app.c) into pre-processed file (app.i)
 
@@ -30,7 +30,6 @@
 The steps 1 and 2 are usually referred as compilation and the steps 3 and 4 are referred as build.
 
 #testing
-
 
 
 
